@@ -1,3 +1,22 @@
+# alx-react-app
+
+This is the initial React project created with Vite for the **ALX Frontend ReactJS** module.
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18 or later recommended)
+- npm (comes with Node.js)
+
+### Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/<your-username>/alx-fe-reactjs.git
+cd alx-fe-reactjs/alx-react-app
+npm install
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
